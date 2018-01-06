@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="atscweb:war">
+    <output-path>$PROJECT_DIR$/atscweb/target</output-path>
+    <root id="archive" name="atsc-web.war">
+      <element id="artifact" artifact-name="atscweb:war exploded" />
+    </root>
+  </artifact>
+</component>

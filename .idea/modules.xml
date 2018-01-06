@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/atscauthority/atscauthority.iml" filepath="$PROJECT_DIR$/atscauthority/atscauthority.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atsccommon/atsccommon.iml" filepath="$PROJECT_DIR$/atsccommon/atsccommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atscparent.iml" filepath="$PROJECT_DIR$/atscparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atscweb/atscweb.iml" filepath="$PROJECT_DIR$/atscweb/atscweb.iml" />
+    </modules>
+  </component>
+</project>
